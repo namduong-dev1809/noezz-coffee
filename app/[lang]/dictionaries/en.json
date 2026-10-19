@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "Noezz Coffee – Phin coffee & rooftop in Da Nang",
+    "description": "Vietnamese coffee shop in An Thuong, Da Nang: phin coffee, salted cream coffee, fruit teas and pastries baked every morning."
+  },
+  "demo": "Demo website · fictional business · built by Duong Thanh Nam",
+  "topbar": "Open 6:30 am – 10:30 pm daily · An Thuong, Da Nang",
+  "nav": {
+    "menu": "Menu",
+    "story": "Our story",
+    "space": "Space",
+    "visit": "Visit",
+    "call": "Call to book",
+    "switchTo": "Tiếng Việt"
+  },
+  "slides": [
+    { "kicker": "A phin every morning", "title": "Slow down a little.", "text": "Dak Lak robusta, roasted plain and dripped drop by drop through an aluminium phin." },
+    { "kicker": "Rooftop over the street", "title": "A seat for the afternoon.", "text": "Green plants, a sea breeze and an ice-cold peach lemongrass tea." },
+    { "kicker": "Baked today", "title": "Fresh from the oven at 6.", "text": "Butter croissants, banana bread and coffee cheesecake made in-house." }
+  ],
+  "slideLabel": "Slide",
+  "ctaMenu": "See the menu",
+  "ctaDirections": "Get directions",
+  "story": {
+    "kicker": "From bean to cup",
+    "title": "Vietnamese coffee, made our way.",
+    "text": "Noezz Coffee sits on the ground floor and rooftop of Noezz Homestay in An Thuong. We roast every week, pour phin for our morning regulars and keep a quiet corner for people who need to work.",
+    "points": ["Roasted every week", "Fast Wi-Fi, plenty of sockets", "Pet friendly"],
+    "sister": "Same owners as Noezz Homestay →"
+  },
+  "menu": {
+    "kicker": "Menu",
+    "title": "What are you drinking today?",
+    "all": "All",
+    "categories": { "coffee": "Coffee", "tea": "Tea", "blended": "Blended", "bakery": "Bakery" },
+    "tags": { "best": "Best seller", "new": "New" },
+    "note": "Prices include VAT. Extra topping or oat milk: +10,000₫. € prices are approximate."
+  },
+  "space": {
+    "kicker": "Space",
+    "title": "Warm, dark and easy."
+  },
+  "visit": {
+    "kicker": "Visit us",
+    "title": "See you in An Thuong.",
+    "addressLabel": "Address",
+    "address": "An Thuong area, Ngu Hanh Son, Da Nang (fictional)",
+    "hoursLabel": "Opening hours",
+    "hours": [
+      { "days": "Mon – Fri", "time": "6:30 am – 10 pm" },
+      { "days": "Sat – Sun", "time": "7 am – 10:30 pm" }
+    ],
+    "phoneLabel": "Phone (demo)",
+    "phone": "0000 000 000"
+  },
+  "footer": {
+    "tagline": "Phin coffee & rooftop in Da Nang.",
+    "madeBy": "Website by"
+  }
+}

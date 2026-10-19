@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "Noezz Coffee – Cà phê phin & sân thượng ở Đà Nẵng",
+    "description": "Quán cà phê kiểu Việt ở An Thượng, Đà Nẵng: cà phê phin, cà phê muối, trà trái cây và bánh nướng mỗi sáng."
+  },
+  "demo": "Website demo · quán không có thật · thực hiện bởi Dương Thành Nam",
+  "topbar": "Mở cửa 6:30 – 22:30 mỗi ngày · An Thượng, Đà Nẵng",
+  "nav": {
+    "menu": "Thực đơn",
+    "story": "Câu chuyện",
+    "space": "Không gian",
+    "visit": "Ghé quán",
+    "call": "Gọi đặt bàn",
+    "switchTo": "English"
+  },
+  "slides": [
+    { "kicker": "Mỗi sáng một ly phin", "title": "Chậm lại một chút.", "text": "Cà phê Robusta Đắk Lắk rang mộc, nhỏ giọt từng chút qua phin nhôm." },
+    { "kicker": "Sân thượng nhìn ra phố", "title": "Góc ngồi cho buổi chiều.", "text": "Cây xanh, gió biển và một ly trà đào cam sả mát lạnh." },
+    { "kicker": "Bánh nướng trong ngày", "title": "Thơm từ lò lúc 6 giờ.", "text": "Croissant bơ, bánh chuối và cheesecake cà phê làm tại quán." }
+  ],
+  "slideLabel": "Ảnh",
+  "ctaMenu": "Xem thực đơn",
+  "ctaDirections": "Chỉ đường",
+  "story": {
+    "kicker": "Từ hạt đến ly",
+    "title": "Cà phê Việt, pha theo cách của mình.",
+    "text": "Noezz Coffee mở trên tầng trệt và sân thượng của Noezz Homestay ở An Thượng. Bọn mình rang hạt mỗi tuần, pha phin cho khách quen buổi sáng và giữ một góc yên tĩnh cho người cần làm việc.",
+    "points": ["Rang hạt mỗi tuần", "Wi-Fi mạnh, nhiều ổ cắm", "Có chỗ cho thú cưng"],
+    "sister": "Cùng chủ với Noezz Homestay →"
+  },
+  "menu": {
+    "kicker": "Thực đơn",
+    "title": "Uống gì hôm nay?",
+    "all": "Tất cả",
+    "categories": { "coffee": "Cà phê", "tea": "Trà", "blended": "Đá xay", "bakery": "Bánh" },
+    "tags": { "best": "Bán chạy", "new": "Mới" },
+    "note": "Giá đã gồm VAT. Thêm topping, sữa yến mạch: +10.000đ."
+  },
+  "space": {
+    "kicker": "Không gian",
+    "title": "Ấm, tối và dễ chịu."
+  },
+  "visit": {
+    "kicker": "Ghé quán",
+    "title": "Hẹn bạn ở An Thượng.",
+    "addressLabel": "Địa chỉ",
+    "address": "Khu An Thượng, Ngũ Hành Sơn, Đà Nẵng (giả định)",
+    "hoursLabel": "Giờ mở cửa",
+    "hours": [
+      { "days": "Thứ 2 – Thứ 6", "time": "6:30 – 22:00" },
+      { "days": "Thứ 7 – Chủ nhật", "time": "7:00 – 22:30" }
+    ],
+    "phoneLabel": "Điện thoại (demo)",
+    "phone": "0000 000 000"
+  },
+  "footer": {
+    "tagline": "Cà phê phin & sân thượng ở Đà Nẵng.",
+    "madeBy": "Website thực hiện bởi"
+  }
+}
