@@ -10,7 +10,7 @@ A one-page, bilingual (Vietnamese / English) website for a **fictional** Vietnam
 - **Menu with tabs** (All / Coffee / Tea / Blended / Bakery), "Best seller" and "New" tags, VND prices with an approximate € hint in English
 - **All menu items in one file** (`lib/menu.ts`): the owner edits names and prices there
 - Story, gallery and visit sections with opening hours, call and directions buttons, map
-- Fade-in on scroll, mobile-first layout, `/vi` and `/en` routes (Vietnamese is the default)
+- Fade-in on scroll, mobile-first layout, `/en` (default) and `/vi` routes
 
 ## Tech
 
