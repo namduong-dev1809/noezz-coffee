@@ -1,5 +1,7 @@
 # Noezz Coffee — demo website
 
+**Live demo: [noezz-coffee.vercel.app](https://noezz-coffee.vercel.app)**
+
 A one-page, bilingual (Vietnamese / English) website for a **fictional** Vietnamese coffee shop in Da Nang. Built as a portfolio demo of a small-business landing page. Sister demo: [Noezz Homestay](https://github.com/namduong-dev1809/noezz-homestay).
 
 > Noezz Coffee is not a real business. Address, phone number and prices are sample content. Photos are from [Unsplash](https://unsplash.com).
